@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Odin", "Odin", "{2B936330-9BC6-4DE4-874E-28E244C56F0A}"
+	ProjectSection(SolutionItems) = preProject
+		main.odin = main.odin
+		nvse.odin = nvse.odin
+		BaseFormComponent.odin = BaseFormComponent.odin
+		TESForm.odin = TESForm.odin
+		BSSimpleList.odin = BSSimpleList.odin
+		TESObjectREFR.odin = TESObjectREFR.odin
+		ExtraData.odin = ExtraData.odin
+		Actor.odin = Actor.odin
+		MobileObject.odin = MobileObject.odin
+		UtilityStructs.odin = UtilityStructs.odin
+		Character.odin = Character.odin
+		PlayerCharacter.odin = PlayerCharacter.odin
+		plugin.odin = plugin.odin
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+EndGlobal

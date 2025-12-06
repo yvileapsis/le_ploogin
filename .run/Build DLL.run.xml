@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Build DLL" type="OdinRunConfiguration" factoryName="OdinRunConfiguration">
+    <option name="compilerOptions" value="-debug -build-mode:dll -keep-executable -target:windows_i386 -no-thread-local" />
+    <option name="outputPath" value="bin/$ProjectName$.dll" />
+    <option name="programArguments" />
+    <option name="projectDirectoryPath" value="$ProjectFileDir$" />
+    <option name="runAfterBuild" value="false" />
+    <method v="2" />
+  </configuration>
+</component>
